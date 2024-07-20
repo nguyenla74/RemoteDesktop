@@ -1,5 +1,5 @@
 # Remote Desktop
-How to Connect and Take Control of A Computer Using Remote Desktop
+How to Connect and Take Control of a Computer Using Remote Desktop
 <h2>Utilities Used</h2>
 
 - <b>Remote Desktop (Windows)</b>
